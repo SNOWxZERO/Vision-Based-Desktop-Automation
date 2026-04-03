@@ -45,8 +45,10 @@ def create_black_bg():
 
 # ================= UTILS =================
 def show_desktop():
+    pyautogui.hotkey("alt", "tab")
+    time.sleep(0.5)
     pyautogui.hotkey("win", "d")
-    time.sleep(1)
+    time.sleep(0.5)
 
 
 def clear_selection():
