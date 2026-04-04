@@ -85,6 +85,10 @@ python main.py
 
 ![alt text](<annotated_screenshots/04-05-2026 00-00-10/post5.png>)
 
+## Demo
+
+[View Demo Folder](https://drive.google.com/drive/folders/1cKt16ooGp2uzugEbylfzEEeZTKZP2WzM?usp=sharing)
+
 ## Features
 
 ✓ Multi-method detection (OCR + Template Matching)  
