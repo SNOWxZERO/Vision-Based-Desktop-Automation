@@ -1,1 +1,38 @@
-tesseract-ocr-w64-setup-5.5.0.20241111.exe
+# Tesseract installer
+tesseract-ocr-w64-setup-*.exe
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Project-specific
+temp_black_bg.png
+annotated_screenshots/
+tjm-project/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python environment
+.venv/
+venv/
+ENV/
+env/
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/

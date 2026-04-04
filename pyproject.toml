@@ -1,0 +1,28 @@
+[project]
+name = "vision-based-desktop-automation"
+version = "1.0.0"
+description = "Vision-Based Desktop Automation with Dynamic Icon Grounding"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = "TJM", email = ""}]
+dependencies = [
+    "pyautogui>=0.9.53",
+    "opencv-python>=4.8.0",
+    "numpy>=1.24.0",
+    "requests>=2.31.0",
+    "pytesseract>=0.3.10",
+    "Pillow>=10.0.0",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Repository = "https://github.com/yourusername/vision-based-desktop-automation"
+Issues = "https://github.com/yourusername/vision-based-desktop-automation/issues"
