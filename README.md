@@ -71,6 +71,20 @@ python main.py
 
 - Shows detection method, location, and coordinates
 
+## Examples
+
+### Screenshot for Top Left Icon (Template Matching)
+
+![alt text](<annotated_screenshots/04-05-2026 00-04-17/post3.png>)
+
+### Screenshot for Centered Icon (Template Matching)
+
+![alt text](<annotated_screenshots/04-05-2026 00-02-01/post6.png>)
+
+### Screenshot for Bottom Right Icon (OCR Detection)
+
+![alt text](<annotated_screenshots/04-05-2026 00-00-10/post5.png>)
+
 ## Features
 
 ✓ Multi-method detection (OCR + Template Matching)  
